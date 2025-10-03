@@ -20,7 +20,8 @@ menampilkannya dalam bentuk tabel.
 <img width="1366" height="689" alt="image" src="https://github.com/user-attachments/assets/5084248f-28ae-4f92-8e96-1f8b67cf5bcd" />
 
 **Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](link_ke_screenshot_anda_2.png)
+<img width="1362" height="683" alt="image" src="https://github.com/user-attachments/assets/ffd38a6a-4fda-4c1e-b546-75ef8f189997" />
+
 **Contoh Pesan Error Validasi**
-*(Letakkan screenshot tampilan saat ada error validasi di s
+<img width="1366" height="694" alt="image" src="https://github.com/user-attachments/assets/a87b8849-f0e3-4a30-8749-fed7b769c1ef" />
+
